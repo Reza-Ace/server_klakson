@@ -1,0 +1,7 @@
+flask
+numpy
+soundfile
+tensorflow
+librosa
+numba==0.56.4
+llvmlite==0.39.1
