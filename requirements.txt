@@ -1,6 +1,1 @@
-Flask==2.3.2
-tensorflow==2.11.0
-librosa==0.10.0.post2
-soundfile==0.12.1
-numba==0.56.4
-llvmlite==0.39.1
+tensorflow-cpu==2.11.0
